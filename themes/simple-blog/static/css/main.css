@@ -1,0 +1,37 @@
+
+.grey{
+  color:#202020
+}
+
+.bg-grey{
+  background-color:#202020
+}
+
+.white{
+  color:#FFF
+}
+
+.bg-white{
+  background-color:#FFF
+}
+
+.hero{
+  height: 75vh;
+}
+
+.nav-link{
+  color: white;
+  font-weight: 700;
+}
+
+.btn-huge{
+  padding:1em 2em;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.nav-logo{
+  max-height: 4.5em;
+}
